@@ -1,0 +1,66 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+body{
+    padding: 30px;
+}
+nav a {
+  font-size: 33px;
+    text-decoration: none;
+    color: rgb(84, 9, 9);
+    margin-right: 35px;
+}
+nav {
+    text-align: center;
+    margin-top: 33px;
+}
+h1 {
+    font-size: 28px;
+    text-decoration: dotted;
+}
+#about a {
+       text-decoration: none;
+    color: rgb(255, 2, 2);
+    margin-left: 24px;
+    font-size: 22px;
+}
+img {
+    margin-left: 300px;
+}
+#work video {
+    margin-left: 85px;
+}
+p {
+    font-size: 22px;
+    text-align: justify;
+    line-height: 40px;
+
+}
+#contact {
+    font-size: 22px;
+}
+
+form {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+   
+}
+     
+.divForm{
+    display: flex;
+    text-align: center;
+    width: 283px;
+    justify-content: space-between;
+}
+
+.footer{
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+
+
+
+
